@@ -1,4 +1,3 @@
-// hello there
 const express=require("express");
 const bparse=require("body-parser");
 const fetch=require("node-fetch");
